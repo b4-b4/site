@@ -1,0 +1,25 @@
+body {
+	max-width: 850px;
+
+	margin: 0 auto;
+	padding: 30px 15px;
+
+	font-family: 'IBM Plex Mono', monospace;
+	font-size: 13px;
+	line-height: 20px;
+}
+p {
+	margin-bottom: 20px;
+}
+a {
+    color: var(--color-link);
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+.b4b4 {
+	margin-bottom: 5px;
+
+	text-align: center;
+}
