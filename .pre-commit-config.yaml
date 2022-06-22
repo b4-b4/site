@@ -1,5 +1,5 @@
 repos:
-  - repo: https://github.com/psf/black
+  - repo: https://github.com/b4-b4/webme
     rev: 0.0.0
     hooks:
       - id: black
